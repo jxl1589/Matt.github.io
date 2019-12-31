@@ -12,13 +12,13 @@
 .content-top {
   display: block;
   width: 400px;
-  margin: 30px auto;
+  margin: 30px;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 .content {
   display: block;
   width: 400px;
-  margin: 50px auto;
+  margin: 50px;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
